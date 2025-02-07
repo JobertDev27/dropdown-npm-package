@@ -1,6 +1,6 @@
 {
   "name": "dropdown-jobertdev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple bloat free dropdown menu in a form of a button",
   "main": "index.js",
   "repository": {
