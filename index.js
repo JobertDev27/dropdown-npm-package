@@ -14,4 +14,4 @@ function dropdown (main, childArr) {
     toggleDrop(false);
 }
 
-module.exports = dropdown;
+export default dropdown;
