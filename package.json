@@ -1,12 +1,17 @@
 {
-  "name": "dropdown",
+  "name": "dropdown-jobertdev",
   "version": "1.0.0",
   "description": "A simple bloat free dropdown menu in a form of a button",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monatheoctocat/my_package.git"
+    "url": "https://github.com/JobertDev27/dropdown-npm-package"
   },
+  "keywords": [
+    "dropdown",
+    "header link dropdown",
+    "hide button"
+  ],
   "author": "jobertDev",
   "license": "ISC"
 }
